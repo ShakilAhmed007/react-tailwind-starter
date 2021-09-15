@@ -12,6 +12,10 @@ then
 
 `rm -rf ./react-tailwind-starter/.git`
 
+after cloneing the repo run
+
+`npm install`
+
 
 
 
